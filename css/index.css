@@ -1,13 +1,13 @@
-/*body {
+body {
     overflow: hidden;
     font-family: 'Open Sans', sans-serif;
 }
-*/
+
 .body {
     position: absolute;
     left: 0;
     top: 30%;
-    width: 100%;
+    width: 95%;
     text-align: center;
     font-size: 18px;
 }
